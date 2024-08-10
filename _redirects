@@ -1,3 +1,4 @@
+# Certs
 /aws           https://res.cloudinary.com/dzvip6v7f/image/upload/v1694364478/My%20image%20personal%20site/AWS/Screenshot_2023-09-10_at_8.47.40_PM_lrodbw.png
 /az_dev        https://res.cloudinary.com/dzvip6v7f/image/upload/v1719640464/My%20image%20personal%20site/Microsoft/jng0u3cnhy1kx1orksrn.png   
 /az_devops     https://res.cloudinary.com/dzvip6v7f/image/upload/v1659031472/My%20image%20personal%20site/Microsoft/Screen_Shot_2022-07-28_at_10.03.23_PM_geeo6e.png
@@ -6,7 +7,12 @@
 /go_ux         https://res.cloudinary.com/dzvip6v7f/image/upload/v1659031197/My%20image%20personal%20site/Google/Coursera_UTWHYMJY5T9K_x0ye63.png
 /go_pyauto     https://res.cloudinary.com/dzvip6v7f/image/upload/v1659030906/My%20image%20personal%20site/Google/Coursera_H5AVKGVSXW7Y_wq7nuf.png
 /parsoft       https://res.cloudinary.com/dzvip6v7f/image/upload/v1675492477/My%20image%20personal%20site/Other/certification-DTP---User-Training-malghish_nvssoft.com_ghpuud.png
+/cyber         https://res.cloudinary.com/dzvip6v7f/image/upload/v1723306551/My%20image%20personal%20site/Other/mih9vhlmp1c7iuun26jk.png
+
+
+# Site
 /source        https://alghosh.web.app/pages/open_source.html
+/cv            https://noon-kick-ca7.notion.site/Mohamad-Alghosh-2024-fcd688e226754f468ee171488566c49b
 
 #fallback
 /*             https://alghosh.web.app/index.html
