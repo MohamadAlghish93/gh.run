@@ -13,6 +13,7 @@
 # Site
 /source        https://alghosh.web.app/pages/open_source.html
 /cv            https://noon-kick-ca7.notion.site/Mohamad-Alghosh-2024-fcd688e226754f468ee171488566c49b
+/s             https://shfiapp.onrender.com
 
 #fallback
-/*             https://alghosh.web.app/index.html
+/*             https://alghosh.vercel.app
